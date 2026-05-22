@@ -1,0 +1,6 @@
+{
+  "name": "ThreadSketch",
+  "description": "A warm and indie web app to draw and convert images into beautiful custom cross-stitch charts with symbols and thread legends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
